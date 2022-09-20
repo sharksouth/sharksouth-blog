@@ -1,7 +1,6 @@
 http://blog.sharksouth.com/books/index.html
 http://blog.sharksouth.com/repository/index.html
 http://blog.sharksouth.com/tags/index.html
-http://blog.sharksouth.com/about/index.html
 http://blog.sharksouth.com/categories/index.html
 http://blog.sharksouth.com/links/index.html
 http://blog.sharksouth.com/2022/09/19/hello-world/
